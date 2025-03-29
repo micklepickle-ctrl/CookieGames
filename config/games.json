@@ -3,19 +3,19 @@
     "name": "1v1lol",
     "image": "https://gms.parcoil.com/1v1lol/logo.png",
     "url": "https://gms.parcoil.com/1v1lol/",
-    "new": true
+    "new": false
   },
   {
     "name": "1v1space",
     "image": "https://gms.parcoil.com/1v1space/splash.png",
     "url": "https://flowlab.io/game/embed/1225623",
-    "new": true
+    "new": false
   },
   {
     "name": "10 Minutes Till Dawn",
     "image": "https://gms.parcoil.com/10-minutes-till-dawn/splash.png",
     "url": "https://gms.parcoil.com/10-minutes-till-dawn/",
-    "new": true
+    "new": false
   },
   {
     "name": "100ng",

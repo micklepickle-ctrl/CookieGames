@@ -1,9 +1,9 @@
 [
   {
-    "name": "1v1lol",
-    "image": "https://gms.parcoil.com/1v1lol/logo.png",
-    "url": "https://gms.parcoil.com/1v1lol/",
-    "new": false
+    name: "1v1lol",
+    image: "https://gms.parcoil.com/1v1lol/logo.png",
+    url: "https://gms.parcoil.com/1v1lol/",
+    new: false
   },
   {
     "name": "1v1space",

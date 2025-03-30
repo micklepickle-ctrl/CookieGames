@@ -19,20 +19,20 @@
   },
   {
     "name": "100ng",
-    "image": "100ng.jpg",
-    "url": "100ng",
+    "image": "https://gms.parcoil.com/100ng/100ng.jpg",
+    "url": "https://gms.parcoil.com/100ng/",
     "new": false
   },
   {
     "name": "2048",
-    "image": "2048.png",
-    "url": "2048",
+    "image": "https://gms.parcoil.com/2048/2048.png",
+    "url": "https://gms.parcoil.com/2048/",
     "new": false
   },
   {
     "name": "2048 Multitask",
-    "image": "splash.png",
-    "url": "2048-multitask",
+    "image": "https://gms.parcoil.com/2048-multitask/splash.png",
+    "url": "https://gms.parcoil.com/2048-multitask/",
     "new": false
   },
   {
